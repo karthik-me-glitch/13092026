@@ -13,4 +13,5 @@ else
 fi
 
 echo -e "\nThanks for Voting \n"
-echo "bye! bye!!"
+echo -e "bye! bye!!\n"
+echo "=========="
