@@ -7,7 +7,10 @@ read age
 
 if [ $age -ge 18 ]
 then
-	echo "Eligible for vote"
+	echo -e "\nEligible for vote"
 else
-	echo "Not Eligible for vote"
+	echo -e "\nNot Eligible for vote"
 fi
+
+echo -e "\nThanks for Voting \n"
+echo "bye! bye!!"
